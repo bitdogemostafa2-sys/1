@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of AutoTube AI - منصة إدارة اليوتيوب الذكية",
+  "description": "نظام ذكاء اصطناعي متكامل لإدارة قنوات اليوتيوب: من الاستراتيجية وكتابة السيناريو إلى توليد الصور والتحليلات.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
