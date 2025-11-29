@@ -62,6 +62,7 @@ export interface ScriptData {
   tone?: string; 
   sources?: Source[];
   musicMood?: string; 
+  suggestedMoods?: string[]; // New: List of suggested moods
   selectedMusicTrackId?: string; 
   mixingSettings?: { 
       voice: number;

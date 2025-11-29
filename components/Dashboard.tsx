@@ -5,17 +5,14 @@ import {
   Users, 
   Eye, 
   Video, 
-  AlertCircle,
   Youtube,
   PlusCircle,
   Activity,
-  ArrowUpRight,
   Info,
   Globe,
   Calendar,
   Radio,
-  Zap,
-  RefreshCw
+  Zap
 } from 'lucide-react';
 import { Channel } from '../types';
 

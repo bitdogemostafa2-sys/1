@@ -1,7 +1,6 @@
 
 import { FullBackup, ProjectState, Channel } from "../types";
 
-const DB_KEY = 'autotube_full_db'; // Legacy Key for localstorage (kept for fallback)
 const TOKEN_KEY = 'google_access_token';
 
 // --- IndexedDB Configuration ---

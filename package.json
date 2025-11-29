@@ -1,5 +1,5 @@
 {
-  "name": "copy-of-copy-of-copy-of-autotube-ai---منصة-إدارة-اليوتيوب-الذكية",
+  "name": "autotube-ai---منصة-إدارة-اليوتيوب-الذكية",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,7 +12,6 @@
     "react-dom": "^19.2.0",
     "react": "^19.2.0",
     "lucide-react": "^0.554.0",
-    "recharts": "^3.4.1",
     "@google/genai": "^1.30.0"
   },
   "devDependencies": {

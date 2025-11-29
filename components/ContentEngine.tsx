@@ -8,7 +8,6 @@ import {
   Copy, 
   RefreshCw, 
   Save,
-  PlayCircle,
   Globe,
   Clock,
   BrainCircuit,
@@ -18,9 +17,6 @@ import {
   Lightbulb,
   TrendingUp,
   ArrowRight,
-  Flame,
-  Flag,
-  CheckCircle,
   Eye
 } from 'lucide-react';
 import { generateScript, analyzeTopicDuration, analyzeTrends, analyzeRegionalTrends } from '../services/geminiService';
@@ -409,7 +405,6 @@ ${generatedContent.body}
                             className="w-16 bg-transparent text-center font-bold text-white outline-none border-b border-slate-700 focus:border-indigo-500 mx-2"
                          />
                          <span className="text-xs text-slate-500">دقيقة</span>
-                         {customDuration && <CheckCircle className="w-4 h-4 text-emerald-500 ml-2 animate-bounceIn"/>}
                      </div>
                  </div>
               </div>
